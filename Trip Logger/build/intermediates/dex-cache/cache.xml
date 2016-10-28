@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_4e175f4d6ae1b7e36432dace319a1b10d1523300.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.4.0_f40f334887b2b8eda76e8f97671d38fb747c22c6.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.4.0_d50ce6c5a3b6c747889f9531577d4ff982253ce1.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.4.0_c1ac1fd30e0463e35b5ddce45b436117c7497c0b.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.4.0_17ce2611a0d21c9404410ffbc942e2efdde18b31.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.4.0_fe40f574f58211223916d9e683ca5a721d144ac8.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.4.0_1784e53231ed6a6917d6a3a0dae9a45ff065d537.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.4.0_32e65a7c9c612ea0c524bb46a1fab0673a526556.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.4.0_8c7147e44d67d6a93658e5d0e356d8e406dcaf5f.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.4.0_5e004c97196cb310d3752fabdecf6d865379375a.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.4.0_d1616f5e7046513f5a57652e758437d955e5c614.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.4.0_c319a4c620d40db38753da2a0bf06201b252a504.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_1e75c959d9ced575659c97d2ab9e65318d438806.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.4.0_ad7a48dccce82ec4e8849e5fe15d74b91e095364.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.4.0_f7497098f10801d193f5619cd497316989f1ee4b.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.4.0_ed107531f99a9a5e94b4f966cd032b873e3ac9cf.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_93113fffd9fe2dfbabb73ed8f94711aae041d088.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.4.0_f27863b6398f13ac2937e3c4c41cc290a376eda6.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_8c148b06654d4729de273a5da4a6f369573fd701.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.4.0_8f5c5761fb2736c616d7c198bebed80c0e86f7ac.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_b3e2bdfa14d11437ce33127681e6bc14df3f42a7.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-contextmanager-9.4.0_61931e804040ec44406fa337342b219ffc46cf28.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.4.0_454f5426643198c99fa9404dbd18a45e903a8fa6.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.4.0_040a49310b457bbc8af50718d3ec8334d8e33610.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_c9eea7f71f36f710e3fc339b67d64421fad7e732.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.4.0_0d27ff650abbcc1402485f065355459d6da411f8.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_33afece847af6353cacd5ee2486315f634f198e1.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.4.0_8748ecc3c0f51c53e107b4ef277f9fab25e6b4bf.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_d6ead9b7261ec245f45f86243201e284b9d7449d.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.4.0_fbd1be3d89b751086fd21402a7ccac371002d264.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.4.0_53be82da8cc158cf42c463488436297c8adf734c.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.4.0_9b89e5caecca9e35dc651fb3b5cb8f462a4624e5.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.4.0_03eca06e3762f2a7d2fb0f35ebf1149a3fff64d9.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.4.0_21ecc66b47809852b5aedf0badfc6aa8920ced63.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.4.0_e561f7071fa1ed01b62a518d29ce72478e89688e.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.4.0_4bae789333aa0a4fec4d7aa38e75fe7d673e1f33.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.4.0_8f4e96c67693e283f7d397d602f0ab20ebf67313.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.4.0_fa2c511af18f0eaceb140fc8869f412c6d0c28d7.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.4.0_7752aa95f79db50d12b3e7f0351250171d115e2e.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_b96ce856c627f232bcbcc5d436a7e88a85278658.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.4.0_018f46a52f0948da404cdf9ace309b8c1e09816e.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.4.0_e94b1abcdc9bba99d8d14ca67225450ef03870c1.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.4.0_81caf394ee8b55600e5f464d6930f57e48de32a8.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_92b5c045928483d37cad7d044fadcd0766399537.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.4.0_f3162c879a3e4e980feae022856a349cd9c6cf99.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_b97f137b2b9c3665ae6694688e71735dbd2fd028.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.4.0_82565908edeae86159ae9dfb7c26fbc21a9be2fa.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.4.0_5d4e32555ce07543b3e414262e1748341b94c015.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.4.0_0379530a0637635ee194a6f146c9cd385e703e6f.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.4.0_a9ecd0b448e7b3b9c71de56786c5c21d5ce9485f.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.4.0_335f6c7b0c59c184f6a0c091f2e0a033ea493d6a.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_4befbb48f8ba361398a7f3c8c58bfce097ff72a0.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.4.0_4c6a47c8ba50882b10ea07f7d3c7c86954b5c8b1.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.4.0_4e97f7df7373df7ee41bee2cedaf218d76d23b04.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.4.0_abe805ebe31609c3ec3c51a9d94ab96e391bab7e.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.4.0_2fdd937d433d7c3e5a966b9697aefae69e71468b.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.4.0_3b4bef356ba7de341fde677c0c1a3b2800bdf1a9.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/macbook/Desktop/Trip Logger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_23959dfc337a32e4dc62515db15f12176f68d2ef.jar" />
+    </item>
+
+</items>
